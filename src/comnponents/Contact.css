@@ -1,0 +1,41 @@
+.contact h1 {
+    color: Brown;
+    border-bottom: 8px solid rgb(4, 3, 3);
+    border-radius: 15px;
+    width: 280px;
+}
+
+.contact h1 span {
+    color: black;
+    font-size: 80px;
+}
+
+.contact-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
+.contact-icon .items{
+    background: #000;
+    margin: 10px;
+    height: 70px;
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    border: 2px solid orange;
+}
+.contact-icon .items:hover{
+    background-color: black;
+    border: 2px solid rgb(8, 84, 94);
+}
+.contact-icon .items .icons:hover{
+    color: rgb(8, 84, 94);
+}
+.contact-icon .items .icons{
+    font-size: 2rem;
+    color: rgb(19, 47, 133);
+}

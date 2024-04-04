@@ -1,0 +1,30 @@
+.container{
+    margin-top: 20px;
+}
+.nav_bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav_bar .nav_items{
+    padding: 16px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.nav_bar .nav_items:hover{
+    border-bottom: 3px solid rgb(255, 157, 0);
+}
+.logo1{
+    color: rgb(95, 85, 85);
+    font-size: 60px;
+    filter: drop-shadow(8px 8px 2px black);
+}
+
+.logo2{
+    color: brown;
+    padding-left: 8px;
+    filter: drop-shadow(7px 7px 2px black);
+}
+.right a{
+    color: #D2691E;
+}

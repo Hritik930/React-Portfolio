@@ -1,0 +1,26 @@
+.ex{
+    width: 900px;
+}
+.ex-items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(9, 13, 41);
+    margin: 20px;
+    margin-left: 250px;
+    width: 800px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid orange;
+    box-shadow: 5px 5px 20px 8px rgb(165, 42, 42,0.2)
+}
+.ex h1{
+    color: Brown;
+    border-bottom: 8px solid rgb(4, 3, 3);
+    border-radius: 15px;
+    width: 250px;
+}
+.ex h1 span{
+    color: black;
+    font-size: 80px;
+}
