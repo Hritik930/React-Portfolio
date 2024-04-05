@@ -16,11 +16,11 @@
 }
 .ex h1{
     color: Brown;
-    border-bottom: 8px solid rgb(4, 3, 3);
+    border-bottom: 8px solid rgb(90, 82, 82);
     border-radius: 15px;
     width: 250px;
 }
 .ex h1 span{
-    color: black;
+    color: rgb(90, 82, 82);
     font-size: 80px;
 }

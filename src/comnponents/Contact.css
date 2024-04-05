@@ -1,13 +1,13 @@
 .contact h1 {
     color: Brown;
-    border-bottom: 8px solid rgb(4, 3, 3);
+    border-bottom: 8px solid rgb(90, 82, 82);
     border-radius: 15px;
     width: 280px;
 }
 
 .contact h1 span {
-    color: black;
-    font-size: 80px;
+   font-size: 80px;
+   color: rgb(90, 82, 82);
 }
 
 .contact-icon {
@@ -37,5 +37,5 @@
 }
 .contact-icon .items .icons{
     font-size: 2rem;
-    color: rgb(19, 47, 133);
+    /* color: rgb(19, 47, 133); */
 }
