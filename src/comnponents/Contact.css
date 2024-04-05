@@ -18,7 +18,7 @@
 }
 
 .contact-icon .items{
-    background: #000;
+    background: #151313;
     margin: 10px;
     height: 70px;
     width: 70px;
@@ -29,7 +29,7 @@
     border: 2px solid orange;
 }
 .contact-icon .items:hover{
-    background-color: black;
+    background-color: #1d1b1b;
     border: 2px solid rgb(8, 84, 94);
 }
 .contact-icon .items .icons:hover{
